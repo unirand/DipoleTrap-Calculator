@@ -1,0 +1,5 @@
+streamlit
+ARC-Alkali-Rydberg-Calculator
+pandas
+numpy<2
+scipy
